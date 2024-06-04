@@ -1,4 +1,4 @@
-# ChatGPT国内中文版镜像网站（2024/5/30）
+# ChatGPT国内中文版镜像网站（2024/6/4）
 汇总20个ChatGPT国内中文版镜像网站。随着国内用户对人工智能需求的增加，出现了多个ChatGPT国内中文版镜像网站。这些网站不仅解决了访问速度问题，还提供了本地化的服务和支持，极大地方便了中国用户。
 
 ## 为什么需要镜像网站？
@@ -6,9 +6,9 @@
 
 ## ChatGPT中文版镜像网站
 
-1.https://snakegpt.work                                  
+1.[https://snakegpt.work](https://snakegpt.work)                                  
 
-2.https://gpt-cat.com/
+2.[https://gpt-cat.com/](https://gpt-cat.com/)
 
 3.[https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)
 
@@ -16,7 +16,7 @@
 
 5.https://poe.com
 
-6.chat.openai.com
+6.https://chat.uniation.net/
 
 7.https://desk.im/
 
