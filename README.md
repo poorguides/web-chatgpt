@@ -1,4 +1,4 @@
-# ChatGPT国内中文版镜像网站（2024/6/4）
+# ChatGPT国内中文版镜像网站（2024/6/7）
 汇总20个ChatGPT国内中文版镜像网站。随着国内用户对人工智能需求的增加，出现了多个ChatGPT国内中文版镜像网站。这些网站不仅解决了访问速度问题，还提供了本地化的服务和支持，极大地方便了中国用户。
 
 ## 为什么需要镜像网站？
@@ -38,7 +38,7 @@
 
 16.http://chat8.zjqywl.cn/chatbotai/1002?channel=360toufangzt9
 
-17.http://gp.yangxiwl.cn/chatmax/chat/1691915246543?channel=baidumaxguizhou&bd_vid=11561269466905197062
+17.http://gp.yangxiwl.cn/chatmax/chat/1691915246543?channel=baidumaxguizhou&bd_vid=1156126946690519706
 
 18.https://chatai.lra.cn/#/home/chat
 
