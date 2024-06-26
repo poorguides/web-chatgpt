@@ -8,7 +8,7 @@
 
 1.[https://snakegpt.work](https://snakegpt.work)                                  
 
-2.[https://gpt-cat.com/](https://gpt-cat.com/)
+2.https://gptcat.top/
 
 3.[https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)
 
